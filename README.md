@@ -32,6 +32,8 @@ ____
 - [ ] [Порядок действий для смены пароля](https://docs.google.com/document/d/1e6PGl2jHYzNlQ-LsxNgdM1PXouL92jBjP6yn079yLkU/edit?usp=sharing) 
 - [ ] [контрольная работа по графикам](https://docs.google.com/document/d/1hsgW_R9K-7c8CIYQJUmARA2lpJLLkkhJLNRPU0-_9Tk/edit?usp=sharing)
 
+- [ ] Билет на экзамен [билет №9](https://docs.google.com/document/d/19j78zV_Xr4rb5hfzLL5r3IbnfIub30gctNYwXEkJ_YI/edit?tab=t.0)
+
 ## Участие в жизни техникума (саморазвитие)
 ____
 - [ ] Поставить реакцию на запись в телеграмм, если Вы в ней присутствуете (далее идут примеры записей)
